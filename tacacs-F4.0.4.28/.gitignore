@@ -16,3 +16,4 @@ tac_plus.conf.5
 tac_pwd
 users_guide
 version.h
+pathsl.h
